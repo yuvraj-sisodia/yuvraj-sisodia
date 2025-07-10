@@ -21,17 +21,42 @@
 
 I'm Yuvraj Singh Sisodia, a Data Science enthusiast with a passion for using data to uncover insights and solve real-world problems. I’m continually building my skills in Python, analytics, and machine learning, and this space showcases the projects I've worked on along the way.
 
-<h3>Things I code with</h3>
+<h3>Skills</h3>
+<!-- <img alt="" src="" /><img alt="Jupyter" src="" />  -->
+
+<h4>Languages:</h4>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-FACC15?style=flat&logo=python&logoColor=blue&logoSize=auto" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-3B82F6?style=flat&logoColor=white&logoSize=auto" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="notion" src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=notion&logoColor=black&logoSize=auto" />
+	<img alt="Python" src="https://img.shields.io/badge/Python-FACC15?style=flat&logo=python&logoColor=blue&logoSize=auto" />
+	<img alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
+	<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-3B82F6?style=flat&logoColor=white&logoSize=auto" />
 </p>
 
+<h4>Libraries:</h4>
+<p>
+	<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+	<img alt="Numpy" src="(https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+	<img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+	<img alt="Scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+	<img alt="Tenserflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+	<img alt="Seaborn" src="" />
+	<img alt="Opencv" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+</p>
+
+<h4>Databases:</h4>
+<p>
+	<img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
+</p>
+
+<h4>Tools & Frameworks:</h4>
+<p>
+	<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-3B82F6?style=flat&logoColor=white&logoSize=auto" />
+	<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+	<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+	<img alt="Github pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=GitHub%20Pages&logoColor=white" />
+	<img alt="notion" src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=notion&logoColor=black&logoSize=auto" />
+	<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+</p>
+  
 
 ## Projects
 
