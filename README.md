@@ -19,7 +19,7 @@
 
 </div>
 
-I'm Yuvraj Singh Sisodia, a Data Science enthusiast with a passion for using data to uncover insights and solve real-world problems. I’m continually building my skills in Python, analytics, and machine learning, and this space showcases the projects I've worked on along the way.
+I'm Yuvraj Singh Sisodia, a Data Science student with a passion for using data to uncover insights and solve real-world problems. I’m continually building my skills in Python, analytics, and machine learning, and this space showcases the projects I've worked on along the way.
 
 <h3>Skills</h3>
 <!-- <img alt="" src="" /><img alt="Jupyter" src="" />  -->
