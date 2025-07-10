@@ -51,68 +51,17 @@ I'm Yuvraj Singh Sisodia, a Data Science enthusiast with a passion for using dat
 </p>
 
 
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+## Projects
 
-<!--
-## Data Science Projects
+* ### [AI CHATBOT WITH NLP](https://github.com/yuvraj-sisodia/AI-CHATBOT-WITH-NLP)
 
-* ### [Olist Delivery Forecast](https://github.com/juniorcl/olist-delivery-forecast)
+  	A simple AI-powered chatbot using Python and Natural Language Processing(NLP).
 
-  	Olist is the largest departament store in Brazilian marketplaces. This project aims to develop and implement a model to predict the time in days until the delivery of a given product. **in progress**
-
-* ### [Airbnb Scheduling Forecast](https://github.com/juniorcl/airbnb-scheduling-forecast)
-
-	To help the booking of the Airbnb this data science project aim to create a machine learning model to predict the first booking of a new user. Unfortunately the database is very desbalanced which difficult the prediction of the model, the best result was 17.48% +/- 0.4% of accuracy. Therefore new approaches guided by the business will be necessary to improve the results.
- -->
 
 ## Blog Posts
 
-* ### [Metrics para Regressão: Entendendo as métricas R², MAE, MAPE, MSE e RMSE](https://medium.com/data-hackers/prevendo-n%C3%BAmeros-entendendo-m%C3%A9tricas-de-regress%C3%A3o-35545e011e70)
+* ### [The New-Age Addiction We Don't Call Addiction](https://medium.com/@yuvrajsisodia/the-new-age-addiction-we-dont-call-addiction-281d1a6cb697)
 
-	In the post "Metrics for Regression: Understanding R², MAE, MAPE, MSE, and RMSE Metrics", title in english, I wrote about metrics for regression models. The selected metrics were R², Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), Mean Squared Error (MSE) and Root Mean Squared Error (RMSE). During this post I explain about the calculation of metrics and how to interpret them.
+	Let's not sugarcoat it: Dopamine is digital heroin. For so long, I felt like I had a discipline problem, but then...
 
-* ### [Indo Além da Acurácia: Entendo a Acurácia Balanceada, Precisão, Recall e F1 score](https://medium.com/data-hackers/indo-al%C3%A9m-da-acur%C3%A1cia-entendo-a-acur%C3%A1cia-balanceada-precis%C3%A3o-recall-e-f1-score-c895e55a9753)
-
-	The post "Going Beyond Accuracy: Understanding Balanced Accuracy, Precision, Recall and F1 score", title in english, I wrote about metrics to avaliate models of classification. The metrics covered were Balanced Accuracy, Precision, Recall and F1 score. During the post, I talk about how to calculate these metrics and understand them.
-
-* ### [Escolha as suas palavras: uma introdução às expressões regulares e ao seu entendimento.](https://medium.com/datarisk-io/escolha-as-suas-palavras-uma-introdu%C3%A7%C3%A3o-as-express%C3%B5es-regulares-e-ao-seu-entendimento-a6163e1b4f8a)
-
-	The post "Choose Your Words: An introduction to regular expressions and understanding them", title in english, I wrote a introduction about regular expression. Each expression is presented with its functionality within a sentence, along with an example.
-
-* ### [Feature Engineering: Técnicas para lidar com dados faltantes em um projeto de ciência de dados.](https://medium.com/data-hackers/feature-engineering-t%C3%A9cnicas-para-lidar-com-dados-faltantes-em-um-projeto-de-ci%C3%AAncia-de-dados-debdd57eb662)
-
-	The post "Feature Engineering: Techniques for dealing with missing data in a data science project", title in english, I wrote about techniques for dealing with missing data. Each technique presented is explained along with an example with images. Some techniques covered "removal of missing data", "mean or median imputation", "categorical imputation" and "missing value indicator".
+---
