@@ -10,7 +10,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-FACC15)](https://yuvraj-sisodia.github.io/)&nbsp;&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-singh-sisodia/)&nbsp;&nbsp;
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://www.medium.com/@yuvrajsisodia)&nbsp;&nbsp;
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/yuvrajsisodia_)&nbsp;&nbsp;
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/_yuvrajsisodia)&nbsp;&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_yuvrajsisodia/)&nbsp;&nbsp;
 <!-- [![DEV Badge](https://img.shields.io/badge/DEV-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://www.dev.to/juniorcl/)&nbsp;&nbsp;
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/juniorcl)&nbsp;&nbsp;
